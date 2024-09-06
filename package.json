@@ -1,0 +1,14 @@
+{
+  "name": "techstore-challenge",
+  "version": "1.0.0",
+  "description": "Desafio de lógica de caixa para a TechStore",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
